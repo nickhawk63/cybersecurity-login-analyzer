@@ -50,3 +50,11 @@ Future versions of this project could include:
 - Automatic security alerts
 - CSV log file analysis
 - More advanced brute-force attack detection
+## Program Output
+
+The program successfully identifies repeated failed login attempts and flags suspicious activity that may indicate a brute-force attack.
+
+### Example Detection
+
+<img width="2256" height="1432" alt="Screenshot 2026-08-12 124031" src="https://github.com/user-attachments/assets/3d2ccc8a-72bf-4ee3-89e8-ceff733f8f76" />
+
